@@ -255,7 +255,7 @@ ul {
 }
 
 .page {
-  width: var(--max-width);
+  width: var(--view-width);
   margin: 0 auto;
   max-width: var(--max-width);
   padding: 5rem 2rem;

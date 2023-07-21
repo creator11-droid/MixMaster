@@ -28,7 +28,7 @@ const Wrapper = styled.div`
     color: var(--primary-700);
     letter-spacing: var(--letterSpacing);
   }
-  .ing {
+  .img {
     display: inline-block;
     margin-right: 0.5rem;
   }
